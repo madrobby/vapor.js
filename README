@@ -3,7 +3,6 @@ vapor.js is a new amazing JavaScript framework.
 In just 0 lines of code it provides:
 
 
-
 Usage: 
 
 <script src="vapor.js"></script>
@@ -16,8 +15,7 @@ Alternatively, inline the whole code, like this:
 
 <script></script>
 
-(In this case, you can also omit the <script> tag completely for
-the ultimate in optimizations and efficiency!)
+(In this case, you can also omit the <script> tag completely for the ultimate in optimizations and efficiency!)
 
 Visit our website at http://vaporjs.com
 
