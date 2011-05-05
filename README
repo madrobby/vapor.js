@@ -9,7 +9,7 @@ Usage:
 
 On modern browsers, you can inline it with a data URL:
 
-<script src="data:application/javascript,"></script>
+<script src="data:text/javascript,"></script>
 
 Alternatively, inline the whole code, like this:
 
