@@ -19,7 +19,7 @@ Alternatively, inline the whole code, like this:
 <script></script>
 ```
 
-(In this case, you can also omit the `<script>` tag completely for the ultimate in optimizations and efficiency!)
+(In this case, you can also omit the `<script>` tag completely for the ultimate in optimizations and efficiency! This also makes vapor.js the only JavaScript library fully compatible with browsers that have JavaScript disabled.)
 
 Visit our [website](http://vaporjs.com)
 
