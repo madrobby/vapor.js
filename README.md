@@ -1,4 +1,5 @@
-# vapor.js is a new amazing JavaScript framework.
+vapor.js is a new amazing JavaScript framework.
+===============================================
 
 In just 0 lines of code it provides:
 
