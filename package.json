@@ -3,6 +3,13 @@
     "description" : "JavaScript, but better!",
     "author": "Thomas Fuchs <thomas@fesch.at>",
     "main": "./vapor",
+    "devDependencies": {
+      "grunt": "*",
+      "grunt-contrib-jshint": "*",
+      "grunt-contrib-uglify": "*",
+      "grunt-contrib-concat": "*",
+      "grunt-contrib-qunit": "*"
+    },
     "repository": {
         "type": "git",
         "url": "git://github.com/madrobby/vapor.js.git"
