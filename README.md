@@ -21,7 +21,4 @@ Alternatively, inline the whole code, like this:
 
 (In this case, you can also omit the `<script>` tag completely for the ultimate in optimizations and efficiency!)
 
-Visit our [website](http://vaporjs.com)
-
 Please fork now and contribute, and keep up to date on [Twitter](http://twitter.com/vapor_js)!
-
