@@ -1,3 +1,6 @@
+[![Coverage Status](https://img.shields.io/coveralls/stanzheng/vapor.js.svg)](https://coveralls.io/r/stanzheng/vapor.js)
+[![Build Status](https://travis-ci.org/stanzheng/vapor.js.svg)](https://travis-ci.org/stanzheng/vapor.js)
+
 # vapor.js is a new amazing JavaScript framework.
 
 In just 0 lines of code it provides:
