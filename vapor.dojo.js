@@ -1,0 +1,1 @@
+dojo.declare("Vapor", null, {});
