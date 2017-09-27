@@ -16,7 +16,7 @@ On modern browsers, you can inline it with a data URL:
 Alternatively, inline the whole code, like this:
 
 ```html
-<script></script>
+<script defer></script>
 ```
 
 (In this case, you can also omit the `<script>` tag completely for the ultimate in optimizations and efficiency!)
