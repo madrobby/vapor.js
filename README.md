@@ -1,6 +1,6 @@
 # vapor.js is a new amazing JavaScript framework.
 
-In just 0 lines of code it provides:
+In just 0 lines of code it provides [everything](https://developer.mozilla.org/en-US/docs/Web/API) that you can do natively!
 
 ## Usage: 
 ```html
