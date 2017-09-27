@@ -5,6 +5,7 @@
     "main": "./vapor",
     "devDependencies": {
       "grunt": "*",
+      "grunt-babel": "*",
       "grunt-contrib-jshint": "*",
       "grunt-contrib-uglify": "*",
       "grunt-contrib-concat": "*",
