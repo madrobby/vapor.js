@@ -1,5 +1,5 @@
 {   "name" : "vapor",
-    "version" : "1.4.9",
+    "version" : "1.4.10",
     "description" : "JavaScript, but better!",
     "author": "Thomas Fuchs <thomas@fesch.at>",
     "main": "./vapor",
