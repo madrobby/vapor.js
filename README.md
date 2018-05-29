@@ -1,10 +1,10 @@
-<img src="https://i.stack.imgur.com/Vkq2a.png" align="left" width="100">
+<img src="https://i.stack.imgur.com/Vkq2a.png" alt="VaporJS Icon" align="left" width="100">
 
 # VaporJS
 
 ## The World's Smallest & Fastest JavaScript Library
 
-[![language](https://img.shields.io/badge/language-javascript-yellow.svg?style=for-the-badge)](https://www.javascript.com/)
+[![language](https://img.shields.io/badge/language-javascript-yellow.svg?style=for-the-badge)](https://www.javascript.com/) [![twitter](https://img.shields.io/badge/Twitter-Vapor__JS-blue.svg?logo=twitter&style=for-the-badge)](http://twitter.com/vapor_js)
 
 In just 0 lines of code it provides [everything](https://developer.mozilla.org/en-US/docs/Web/API) that you can do natively!
 
@@ -77,8 +77,3 @@ vapor.js --help
 ----
 
 If you need to use VaporJS in a business environment or require minimum security requirements, you can try [SemicolonJS](https://github.com/dchest/semicolon-js)
-
-</br>
-</br>
-----
-Please fork now and contribute, and keep up to date on [Twitter](http://twitter.com/vapor_js)!
