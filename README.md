@@ -29,4 +29,7 @@ Add defer attribute for faster loading:
 
 (You can also omit the `<script>` tag completely for the ultimate in optimizations and efficiency!)
 
+## Enterprise Usage
+If you need to use VaporJS in a business environment or require minimum security requirements, you can try [SemicolonJS](https://github.com/dchest/semicolon-js)
+
 Please fork now and contribute, and keep up to date on [Twitter](http://twitter.com/vapor_js)!
