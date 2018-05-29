@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const vaporjs = require('m.vapor.js');
+const vaporjs = require('js.vapor');
 
 const exec = require('child_process').exec;
 let args = process.argv.slice(2);
