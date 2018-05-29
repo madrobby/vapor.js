@@ -1,8 +1,11 @@
-{   "name" : "vapor",
-    "version" : "1.4.10",
+{   "name" : "vapor.js",
+    "version" : "1.4.12",
     "description" : "JavaScript, but better!",
     "author": "Thomas Fuchs <thomas@fesch.at>",
-    "main": "./vapor",
+    "contributors": [
+        "CosasDePuma <kikefontanlorenzo@gmail.com> (https://github.com/CosasDePuma/)"
+    ],
+    "main": "vapor.js",
     "devDependencies": {
       "grunt": "*",
       "grunt-babel": "*",
@@ -14,5 +17,6 @@
     "repository": {
         "type": "git",
         "url": "git://github.com/madrobby/vapor.js.git"
-    }
+    },
+    "license": "MIT"
 }
