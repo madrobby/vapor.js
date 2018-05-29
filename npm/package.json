@@ -1,0 +1,38 @@
+{
+  "name": "m.vapor.js",
+  "version": "1.4.12",
+  "description": "The World's Smallest & Fastest JavaScript Library",
+  "author": "Thomas Fuchs <thomas@fesch.at>",
+  "contributors": [
+    "CosasDePuma <kikefontanlorenzo@gmail.com> (https://github.com/CosasDePuma/)"
+  ],
+  "main": "vapor.js",
+  "bin": {
+    "vaporjs": "bin/vaporjs",
+    "vapor.js": "bin/vaporjs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-babel": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-qunit": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madrobby/vapor.js.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohanameans/vapor.js/issues"
+  },
+  "homepage": "https://github.com/ohanameans/vapor.js#readme",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "vapor.js"
+  ]
+}
