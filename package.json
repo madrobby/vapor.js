@@ -1,10 +1,11 @@
 {   "name" : "vapor",
-    "version" : "1.4.5",
+    "version" : "1.4.9",
     "description" : "JavaScript, but better!",
     "author": "Thomas Fuchs <thomas@fesch.at>",
     "main": "./vapor",
     "devDependencies": {
       "grunt": "*",
+      "grunt-babel": "*",
       "grunt-contrib-jshint": "*",
       "grunt-contrib-uglify": "*",
       "grunt-contrib-concat": "*",
