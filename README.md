@@ -4,7 +4,7 @@
 
 ## The World's Smallest & Fastest JavaScript Library
 
-[![language](https://img.shields.io/badge/language-javascript-yellow.svg?style=for-the-badge)](https://www.javascript.com/) [![twitter](https://img.shields.io/badge/Twitter-Vapor__JS-blue.svg?logo=twitter&style=for-the-badge)](http://twitter.com/vapor_js)
+[![language](https://img.shields.io/badge/language-javascript-yellow.svg?style=for-the-badge)](https://www.javascript.com/) [![twitter](https://img.shields.io/badge/Twitter-Vapor__JS-blue.svg?logo=twitter&style=for-the-badge)](http://twitter.com/vapor_js) [![pull request](https://img.shields.io/badge/Pull%20Request-99-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/madrobby/vapor.js/pull/99)
 
 In just 0 lines of code it provides [everything](https://developer.mozilla.org/en-US/docs/Web/API) that you can do natively!
 
