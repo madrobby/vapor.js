@@ -7,6 +7,11 @@ In just 0 lines of code it provides:
 <script src="vapor.js"></script>
 ```
 
+If you need it, you can import VaporJS externally thanks to CDN:
+```html
+<script src="https://cdn.rawgit.com/OhanaMeans/vapor.js/master/vapor.js"></script>
+```
+
 On modern browsers, you can inline it with a data URL:
 
 ```html
