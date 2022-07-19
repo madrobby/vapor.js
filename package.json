@@ -3,6 +3,7 @@
     "description" : "JavaScript, but better!",
     "author": "Thomas Fuchs <thomas@fesch.at>",
     "main": "./vapor",
+    "typings": "index.d.ts",
     "devDependencies": {
       "grunt": "*",
       "grunt-contrib-jshint": "*",
